@@ -5,13 +5,12 @@ class Solution {
         }
 
         int rev = 0;
-        int temp = x;
 
         while(x>rev){
-            rev = rev * 10 + x % 10;  //1,12
-            x = x/10;  //12
+            rev = rev * 10 + x % 10;
+            x = x/10;
         }
 
-        return (rev == x)  || (x==rev/10);
+        return (rev == x) || (x==rev/10);
     }
 }
