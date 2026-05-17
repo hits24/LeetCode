@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/hits24/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/hits24/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/hits24/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0682-baseball-game](https://github.com/hits24/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/hits24/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/hits24/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
@@ -60,4 +61,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/hits24/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/hits24/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0682-baseball-game](https://github.com/hits24/LeetCode/tree/main/0682-baseball-game/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0682-baseball-game](https://github.com/hits24/LeetCode/tree/main/0682-baseball-game/) | Easy |
 <!---LeetCode Topics End-->
