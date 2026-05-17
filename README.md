@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/hits24/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/hits24/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/hits24/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/hits24/LeetCode/tree/main/0682-baseball-game/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2485-find-the-pivot-integer](https://github.com/hits24/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
 <!---LeetCode Topics End-->
