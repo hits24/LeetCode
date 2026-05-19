@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/hits24/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/hits24/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/hits24/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/hits24/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +78,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2485-find-the-pivot-integer](https://github.com/hits24/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/hits24/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
