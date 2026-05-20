@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hits24/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0278-first-bad-version](https://github.com/hits24/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/hits24/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/hits24/LeetCode/tree/main/0704-binary-search/) | Easy |
 ## Sorting
@@ -84,4 +85,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/hits24/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/hits24/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
