@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hits24/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/hits24/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/hits24/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0367-valid-perfect-square](https://github.com/hits24/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/hits24/LeetCode/tree/main/0704-binary-search/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/hits24/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/hits24/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
