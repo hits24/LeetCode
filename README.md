@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/hits24/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hits24/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/hits24/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0118-pascals-triangle](https://github.com/hits24/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0162-find-peak-element](https://github.com/hits24/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hits24/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/hits24/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/hits24/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0118-pascals-triangle](https://github.com/hits24/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0392-is-subsequence](https://github.com/hits24/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
