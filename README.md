@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hits24/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/hits24/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/hits24/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/hits24/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0118-pascals-triangle](https://github.com/hits24/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0162-find-peak-element](https://github.com/hits24/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hits24/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/hits24/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0268-missing-number](https://github.com/hits24/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/hits24/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/hits24/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
