@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/hits24/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/hits24/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/hits24/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/hits24/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/hits24/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0162-find-peak-element](https://github.com/hits24/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hits24/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0027-remove-element](https://github.com/hits24/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/hits24/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0088-merge-sorted-array](https://github.com/hits24/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/hits24/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hits24/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/hits24/LeetCode/tree/main/0202-happy-number/) | Easy |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/hits24/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/hits24/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/hits24/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/hits24/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/hits24/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
