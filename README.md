@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hits24/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/hits24/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/hits24/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/hits24/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/hits24/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/hits24/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/hits24/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/hits24/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/hits24/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/hits24/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/hits24/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/hits24/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/hits24/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/hits24/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/hits24/LeetCode/tree/main/0268-missing-number/) | Easy |
